@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Todo_app</string>
+    <string name="enter_title">Enter title</string>
 </resources>
